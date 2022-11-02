@@ -8,7 +8,7 @@ pipeline {
         }
         stage('Download molecule'){
             steps{
-                sh 'pip3 install molecule molecule_docker'
+                sh 'pip3 install --force molecule molecule_docker'
             }
         }
         stage('test'){
