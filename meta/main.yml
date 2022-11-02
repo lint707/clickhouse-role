@@ -1,9 +1,9 @@
 galaxy_info:
   role_name: clickhouse
-  namespace: alexeysetevoi
-  author: Alexey V. Bobrov
+  namespace: GVK
+  author: GVK
   description: Role for installation and managing ClickHouse
-  role_name: freestyle
+  company: netology
 
   license: MIT
   
