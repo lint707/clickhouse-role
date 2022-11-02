@@ -3,6 +3,7 @@ galaxy_info:
   namespace: alexeysetevoi
   author: Alexey V. Bobrov
   description: Role for installation and managing ClickHouse
+  role_name: freestyle
 
   license: MIT
   
