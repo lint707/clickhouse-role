@@ -1,7 +1,7 @@
 galaxy_info:
   role_name: clickhouse
-  namespace: GVK
-  author: GVK
+  namespace: centos
+  author: gvk
   description: Role for installation and managing ClickHouse
   company: netology
 
