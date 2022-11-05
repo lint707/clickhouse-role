@@ -18,7 +18,7 @@ pipeline {
         }
         stage('Run molecule'){
             steps{
-                sh 'molecule test'
+                sh 'molecule test -s centos_7'
             }
         }
     }
